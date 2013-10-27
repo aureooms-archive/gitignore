@@ -63,3 +63,19 @@ qrc_*.cpp
 ########
 
 .sass-cache
+
+# LaTeX #
+#########
+
+*.aux
+*.lof
+*.log
+*.bbl
+*.blg
+*.toc
+*.idx
+*.ilg
+*.ind	
+*.out
+*.equ
+*.pyg
