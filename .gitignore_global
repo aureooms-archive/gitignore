@@ -79,3 +79,9 @@ qrc_*.cpp
 *.out
 *.equ
 *.pyg
+
+
+# IntelliJ IDEA #
+#################
+
+.idea
